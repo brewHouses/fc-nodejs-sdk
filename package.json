@@ -1,6 +1,6 @@
 {
-  "name": "@alicloud/fc2",
-  "version": "2.5.0",
+  "name": "dingrong_fc2",
+  "version": "2.5.2",
   "description": "Aliyun Function Compute API SDK2",
   "main": "index.js",
   "scripts": {
@@ -41,7 +41,6 @@
     "es5"
   ],
   "directories": {
-    "doc": "doc",
     "lib": "lib",
     "test": "test"
   },
